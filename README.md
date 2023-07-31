@@ -1,7 +1,4 @@
-# comapny-Assignment
-# Node.js Server, Data Manipulation, and Asynchronous File Handling
-
-This repository contains Node.js scripts to accomplish three tasks: creating a basic Node.js server, performing data manipulation on arrays, and handling asynchronous file operations.
+# company-Assignment
 
 ## Task 1: Basic Node.js Server
 
